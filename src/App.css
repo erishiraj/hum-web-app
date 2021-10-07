@@ -30,13 +30,4 @@ body {
   color: white;
 }
 
-input {
-  border: 1px solid white;
-  outline: none;
-  padding: 0 0.5rem;
-  width: 300px;
-  height: 40px;
-  border-radius: 5px;
-}
-
 

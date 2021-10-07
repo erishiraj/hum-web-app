@@ -11,7 +11,7 @@ import {PureComponent} from "react";
 // Custom
 import SuggestionsList from "../SuggestionsList/SuggestionsList";
 // Styles
-import "../../App.css";
+import "./AutoComplete.css";
 
 class Autocomplete extends PureComponent {
   constructor(props) {
